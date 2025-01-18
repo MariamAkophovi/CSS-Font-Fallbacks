@@ -1,0 +1,33 @@
+body {
+    font-size: 20px;
+}
+.style1 {
+    font-family: "Times New Roman", Times, serif;
+}
+.style2 {
+    font-family: Georgia, serif;
+}
+.style3 {
+    font-family: Garamond, serif;
+}
+.style4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.style5 {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+.style6 {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+.style7  {
+    font-family: Geneva, Verdana, sans-serif;
+}
+.style8 {
+    font-family: "Courier New", Courier, monospace;
+}
+.style9 {
+    font-family: "Brush Script MT", cursive;
+}
+.style10 {
+    font-family: Copperplate, Papyrus, fantasy;
+}
